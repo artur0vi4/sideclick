@@ -13,7 +13,7 @@ SideClick — полностью **бесплатный** проект с отк
 
 | Монета | Сеть | Адрес |
 |--------|------|-------|
-| USDT | TON (TON) | `UQAQoNRtILsXXfDfAfiJY45aoicflzNgBwjZDA1Mchl4F6r5` |
+| USDT | TON | `UQAQoNRtILsXXfDfAfiJY45aoicflzNgBwjZDA1Mchl4F6r5` |
 | BTC | Bitcoin | `bc1q3d5d5ms6dl7dkxl30wewx90s656ccycwkfzyh3` |
 | ETH | Ethereum (ERC20) | `0x1Ed65314B9f95876654Eb054b6d8f9a843fABED8` |
 
